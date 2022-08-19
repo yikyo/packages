@@ -1,0 +1,13 @@
+{
+  "name": "packages",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": "yiKyo <yikyo666@gmail.com>",
+  "private": "true",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm"
+  },
+  "devDependencies": {
+    "@changesets/cli": "^2.24.3"
+  }
+}
