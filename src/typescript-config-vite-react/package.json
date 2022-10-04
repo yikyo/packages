@@ -1,7 +1,7 @@
 {
   "name": "@yikyo/typescript-config-vite-react",
   "description": "A base TSConfig for working with Vite React.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": "yiKyo <yikyo666@gmail.com>",
   "license": "MIT"
 }

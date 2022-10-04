@@ -5,9 +5,10 @@
   "author": "yiKyo <yikyo666@gmail.com>",
   "private": "true",
   "scripts": {
-    "preinstall": "npx only-allow pnpm"
+    "release": "pnpm --recursive --stream build && changeset publish"
   },
   "devDependencies": {
-    "@changesets/cli": "^2.24.3"
+    "@changesets/changelog-github": "^0.4.6",
+    "@changesets/cli": "^2.24.4"
   }
 }
