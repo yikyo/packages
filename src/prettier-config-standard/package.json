@@ -4,5 +4,8 @@
   "description": "prettier config",
   "author": "yiKyo <yikyo666@gmail.com>",
   "license": "MIT",
-  "main": ".prettierrc.js"
+  "main": ".prettierrc.js",
+  "dependencies": {
+    "prettier": "^2.7.1"
+  }
 }
