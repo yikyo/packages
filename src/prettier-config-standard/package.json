@@ -1,6 +1,6 @@
 {
   "name": "@yikyo/prettier-config-standard",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "description": "prettier config",
   "author": "yiKyo <yikyo666@gmail.com>",
   "license": "MIT"
