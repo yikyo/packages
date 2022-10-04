@@ -11,7 +11,7 @@ jobs:
   # 定义一个名为 release 的 job
   release:
     # 运行环境
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     # 定义步骤
     steps:
       # https://github.com/actions/checkout
