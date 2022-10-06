@@ -1,14 +1,15 @@
 {
   "name": "packages",
   "version": "0.1.0",
+  "private": "true",
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
-  "private": "true",
   "scripts": {
     "release": "pnpm --recursive --stream build && changeset publish"
   },
   "devDependencies": {
     "@changesets/changelog-github": "^0.4.6",
-    "@changesets/cli": "^2.24.4"
+    "@changesets/cli": "^2.24.4",
+    "@yikyo/prettier-config-standard": "workspace:*"
   }
 }

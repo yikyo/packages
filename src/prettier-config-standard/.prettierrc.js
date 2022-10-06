@@ -20,4 +20,5 @@ module.exports = {
   // endOfLine: 'lf',
   // embeddedLanguageFormatting: 'auto',
   // singleAttributePerLine: false,
+  plugins: [require.resolve('prettier-plugin-packagejson')],
 };
