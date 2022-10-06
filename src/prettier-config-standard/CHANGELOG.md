@@ -1,5 +1,11 @@
 # @yikyo/prettier-config-standard
 
+## 1.4.0
+
+### Minor Changes
+
+- [`a326520`](https://github.com/yikyo/packages/commit/a3265207d36eb690936949359ce3a145a2d42c0a) Thanks [@yikyo](https://github.com/yikyo)! - 添加 prettier-plugin-packagejson 依赖
+
 ## 1.3.0
 
 ### Minor Changes
