@@ -1,5 +1,5 @@
 ---
-'@yikyo/eslint-config-standard': major
+'@yikyo/eslint-config-standard': minor
 ---
 
-添加 eslint-config-standard 库
+初始化 eslint-config-standard 库
