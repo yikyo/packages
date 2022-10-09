@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-react
 
+## 1.5.0
+
+### Minor Changes
+
+- [`2a3baab`](https://github.com/yikyo/packages/commit/2a3baab7a316dad1a8bf1c3b0d82789952b6b721) Thanks [@yikyo](https://github.com/yikyo)! - 移除错误的依赖配置
+
 ## 1.4.0
 
 ### Minor Changes
