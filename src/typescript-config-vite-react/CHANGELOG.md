@@ -1,5 +1,11 @@
 # @yikyo/typescript-config-vite-react
 
+## 1.2.0
+
+### Minor Changes
+
+- [`29b5e18`](https://github.com/yikyo/packages/commit/29b5e18c201b62eaa522ef6e38e78797aafd1997) Thanks [@yikyo](https://github.com/yikyo)! - 修改 typescript 配置
+
 ## 1.1.0
 
 ### Minor Changes
