@@ -1,5 +1,11 @@
 # @yikyo/typescript-config-vite-react
 
+## 1.3.0
+
+### Minor Changes
+
+- [`e3b3ccf`](https://github.com/yikyo/packages/commit/e3b3ccf8c2f9ac32716e6b790f2fc88e2ec43c2d) Thanks [@yikyo](https://github.com/yikyo)! - 修正未导出配置文件的问题
+
 ## 1.2.0
 
 ### Minor Changes
