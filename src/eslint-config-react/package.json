@@ -1,6 +1,6 @@
 {
   "name": "@yikyo/eslint-config-react",
-  "version": "1.5.0",
+  "version": "1.6.0",
   "description": "eslint config",
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
