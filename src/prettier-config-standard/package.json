@@ -8,5 +8,8 @@
   "dependencies": {
     "prettier": "^2.7.1",
     "prettier-plugin-packagejson": "^2.3.0"
+  },
+  "peerDependencies": {
+    "prettier": "^2.7.1"
   }
 }
