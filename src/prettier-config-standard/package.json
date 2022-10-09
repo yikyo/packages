@@ -5,7 +5,7 @@
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
   "main": ".prettierrc.js",
-  "devDependencies": {
+  "dependencies": {
     "prettier": "^2.7.1",
     "prettier-plugin-packagejson": "^2.3.0"
   }
