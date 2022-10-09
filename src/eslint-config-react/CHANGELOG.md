@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-standard
 
+## 1.2.0
+
+### Minor Changes
+
+- [`52ae166`](https://github.com/yikyo/packages/commit/52ae166dba39681abe6a30003508516c91bc753d) Thanks [@yikyo](https://github.com/yikyo)! - 更换包名称
+
 ## 1.1.0
 
 ### Minor Changes
