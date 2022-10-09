@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@yikyo/eslint-config-standard',
+  extends: '@yikyo/eslint-config-react',
 };
