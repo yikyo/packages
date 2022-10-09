@@ -1,5 +1,11 @@
 # @yikyo/prettier-config-standard
 
+## 1.5.0
+
+### Minor Changes
+
+- [`79504f8`](https://github.com/yikyo/packages/commit/79504f81c65676e41159f8587834e3247bba80b3) Thanks [@yikyo](https://github.com/yikyo)! - 修正依赖未正确配置的问题
+
 ## 1.4.0
 
 ### Minor Changes
