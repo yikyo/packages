@@ -10,7 +10,7 @@ module.exports = {
   },
   settings: {
     react: {
-      version: 'detect',
+      version: 'detect',v
     },
   },
   env: {
@@ -35,5 +35,7 @@ module.exports = {
   ],
   rules: {
     'react/react-in-jsx-scope': 'off',
+    'simple-import-sort/imports': 'error',
+    'simple-import-sort/exports': 'error',
   },
 };
