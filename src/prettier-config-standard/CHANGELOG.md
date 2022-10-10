@@ -1,5 +1,11 @@
 # @yikyo/prettier-config-standard
 
+## 1.9.0
+
+### Minor Changes
+
+- [`55f6918`](https://github.com/yikyo/packages/commit/55f6918ebda4e58cb4ce0c80c3072e61fae4baf2) Thanks [@yikyo](https://github.com/yikyo)! - 添加 tailwindcss 插件
+
 ## 1.8.0
 
 ### Minor Changes
