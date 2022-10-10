@@ -10,7 +10,7 @@ module.exports = {
   },
   settings: {
     react: {
-      version: 'detect',v
+      version: 'detect',
     },
   },
   env: {
