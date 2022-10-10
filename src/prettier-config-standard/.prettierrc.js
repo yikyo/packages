@@ -20,8 +20,5 @@ module.exports = {
   // endOfLine: 'lf',
   // embeddedLanguageFormatting: 'auto',
   // singleAttributePerLine: false,
-  plugins: [
-    require('prettier-plugin-packagejson'),
-    require('prettier-plugin-tailwindcss'),
-  ],
+  plugins: [require('prettier-plugin-packagejson')],
 };
