@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-react
 
+## 1.10.0
+
+### Minor Changes
+
+- [`dc35c55`](https://github.com/yikyo/packages/commit/dc35c55c5db01b6e615dbe29ae102afa983b3347) Thanks [@yikyo](https://github.com/yikyo)! - 更新配置文件
+
 ## 1.9.0
 
 ### Minor Changes
