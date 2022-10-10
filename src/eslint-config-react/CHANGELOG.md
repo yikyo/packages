@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-react
 
+## 1.9.0
+
+### Minor Changes
+
+- [`67dbc20`](https://github.com/yikyo/packages/commit/67dbc2029d4d59edad44610dcc231fc83690d5e2) Thanks [@yikyo](https://github.com/yikyo)! - 整理配置文件、添加 eslint-plugin-tailwaindcss 包
+
 ## 1.8.0
 
 ### Minor Changes

@@ -1,5 +1,11 @@
 # @yikyo/prettier-config-standard
 
+## 1.10.0
+
+### Minor Changes
+
+- [`67dbc20`](https://github.com/yikyo/packages/commit/67dbc2029d4d59edad44610dcc231fc83690d5e2) Thanks [@yikyo](https://github.com/yikyo)! - 移除 prettier-plugin-tailwindcss 包
+
 ## 1.9.0
 
 ### Minor Changes
