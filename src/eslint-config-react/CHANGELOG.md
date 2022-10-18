@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-react
 
+## 1.11.0
+
+### Minor Changes
+
+- [`bced70e`](https://github.com/yikyo/packages/commit/bced70e8d60f3324a5c69f5bea550250fbf11d57) Thanks [@yikyo](https://github.com/yikyo)! - 添加 eslint-import-resolver-typescript 插件
+
 ## 1.10.0
 
 ### Minor Changes
