@@ -1,0 +1,21 @@
+## 开发
+
+### 更新版本
+
+运行 changeset add
+
+```bash
+./node_modules/.bin/changeset add
+```
+
+## 使用
+
+### eslint-config-nestjs
+
+添加文件 .eslintrc.cjs
+
+```js
+module.exports = {
+  extends: '@yikyo/eslint-config-nestjs',
+};
+```
