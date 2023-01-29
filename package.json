@@ -5,6 +5,7 @@
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
   "scripts": {
+    "changeset": "changeset",
     "release": "pnpm --recursive --stream build && changeset publish"
   },
   "devDependencies": {

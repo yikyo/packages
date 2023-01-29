@@ -1,21 +1,58 @@
 ## 开发
 
-### 更新版本
-
-运行 changeset add
+### 添加新包
+创建子文件夹，添加 package.json
 
 ```bash
-./node_modules/.bin/changeset add
+pnpm install xxx --filter @yikyo/xxx
 ```
+
+### 更新版本
+
+```bash
+pnpm changeset add
+```
+
+提交相关代码，合并到主分支后，Github Actions 会自动发布新版本。
+
+````bash
 
 ## 使用
 
-### eslint-config-nestjs
+### 使用 eslint
 
-添加文件 .eslintrc.cjs
+```bash
+pnpm install -D @yikyo/eslint-config-nestjs
+````
 
-```js
+.eslintrc.cjs
+
+```cjs
 module.exports = {
   extends: '@yikyo/eslint-config-nestjs',
 };
+```
+
+### 使用 prettier
+
+```bash
+pnpm install -D @yikyo/prettier-config-standard
+```
+
+.prettierrc.cjs
+
+```cjs
+module.exports = '@yikyo/prettier-config-standard';
+```
+
+### 使用 commitlint
+
+```bash
+pnpm install -D @yikyo/commitlint-config-standard
+```
+
+.commitlintrc.cjs
+
+```cjs
+module.exports = '@yikyo/commitlint-config-standard';
 ```
