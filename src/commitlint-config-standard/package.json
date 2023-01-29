@@ -1,6 +1,6 @@
 {
   "name": "@yikyo/commitlint-config-standard",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "commitlint config",
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
