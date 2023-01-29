@@ -1,0 +1,12 @@
+{
+  "name": "@yikyo/commitlint-config-standard",
+  "version": "0.1.0",
+  "description": "commitlint config",
+  "license": "MIT",
+  "author": "yiKyo <yikyo666@gmail.com>",
+  "main": ".commitlintrc.js",
+  "dependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2"
+  }
+}
