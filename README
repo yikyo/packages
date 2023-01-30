@@ -44,15 +44,3 @@ pnpm install -D @yikyo/prettier-config-standard
 ```cjs
 module.exports = '@yikyo/prettier-config-standard';
 ```
-
-### 使用 commitlint
-
-```bash
-pnpm install -D @yikyo/commitlint-config-standard
-```
-
-.commitlintrc.cjs
-
-```cjs
-module.exports = '@yikyo/commitlint-config-standard';
-```
