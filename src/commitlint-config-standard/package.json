@@ -5,7 +5,11 @@
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
   "main": ".commitlintrc.js",
-  "dependencies": {
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2"
+  },
+  "peerDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2"
   }
