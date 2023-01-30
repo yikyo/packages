@@ -1,5 +1,11 @@
 # @yikyo/eslint-config-nestjs
 
+## 1.3.0
+
+### Minor Changes
+
+- [`e025165`](https://github.com/yikyo/packages/commit/e02516500ece816bc65a4c51df08a57063435e47) Thanks [@yikyo](https://github.com/yikyo)! - feat: 更新依赖
+
 ## 1.2.0
 
 ### Minor Changes
