@@ -19,6 +19,8 @@ pnpm changeset add
 
 ## 使用
 
+设置 npmrc auto-install-peers 为 true
+
 ### 使用 eslint
 
 ```bash
@@ -43,4 +45,16 @@ pnpm install -D @yikyo/prettier-config-standard
 
 ```cjs
 module.exports = '@yikyo/prettier-config-standard';
+```
+
+### 使用 commitlint
+
+```bash
+pnpm install -D @yikyo/commitlint-config-standard
+```
+
+.commitlintrc.cjs
+
+```cjs
+module.exports = '@yikyo/commitlint-config-standard';
 ```
