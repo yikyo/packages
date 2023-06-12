@@ -9,8 +9,8 @@
     "release": "pnpm --recursive --stream build && changeset publish"
   },
   "devDependencies": {
-    "@changesets/changelog-github": "^0.4.6",
-    "@changesets/cli": "^2.24.4",
+    "@changesets/changelog-github": "^0.4.8",
+    "@changesets/cli": "^2.26.1",
     "@yikyo/eslint-config-react": "workspace:*",
     "@yikyo/prettier-config-standard": "workspace:*"
   }
