@@ -1,5 +1,11 @@
 # @yikyo/prettier-config-standard
 
+## 1.12.0
+
+### Minor Changes
+
+- [`2a6bd01`](https://github.com/yikyo/packages/commit/2a6bd0163911e1ca2a558e1b6263f73ea826a8dd) Thanks [@yikyo](https://github.com/yikyo)! - update package
+
 ## 1.11.0
 
 ### Minor Changes
