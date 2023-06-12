@@ -1,6 +1,6 @@
 {
   "name": "@yikyo/eslint-config-nestjs",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "eslint config",
   "license": "MIT",
   "author": "yiKyo <yikyo666@gmail.com>",
