@@ -1,0 +1,13 @@
+{
+  "name": "@yikyo/commitlint-config-standard",
+  "version": "1.0.0",
+  "description": "commitlint config",
+  "license": "MIT",
+  "author": "yiKyo <yikyo666@gmail.com>",
+  "main": ".commitlintrc.js",
+  "peerDependencies": {
+    "@commitlint/cli": "^17.6.7",
+    "@commitlint/config-conventional": "^17.6.7",
+    "husky": "^8.0.3"
+  }
+}

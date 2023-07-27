@@ -19,8 +19,6 @@ pnpm changeset add
 
 ## 使用
 
-设置 npmrc auto-install-peers 为 true
-
 ### 使用 eslint
 
 ```bash
