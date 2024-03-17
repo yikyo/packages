@@ -1,0 +1,13 @@
+{
+  "name": "@yikyo/boime-config-standard",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "author": "yiKyo <yikyo666@gmail.com>",
+  "exports": {
+    ".": "./biome.json"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "1.6.1"
+  }
+}
